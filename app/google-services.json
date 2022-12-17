@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "987588633245",
+    "firebase_url": "https://aps-crm-app.firebaseio.com",
+    "project_id": "aps-crm-app",
+    "storage_bucket": "aps-crm-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987588633245:android:517a66cb7b9e78571eea74",
+        "android_client_info": {
+          "package_name": "com.rhodonpharma.eduaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987588633245-sf0225qdbceu0b88tahrdmmsq4g8r4gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_7MSgdWNgt_plOZwL1NZ6P--jLZ4v34I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987588633245-sf0225qdbceu0b88tahrdmmsq4g8r4gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

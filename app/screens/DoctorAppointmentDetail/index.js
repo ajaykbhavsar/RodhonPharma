@@ -1,0 +1,2 @@
+import DoctorAppointmentDetailContainer from './DoctorAppointmentDetailContainer';
+export default DoctorAppointmentDetailContainer;

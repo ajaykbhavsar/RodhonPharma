@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672595302310",
+    "project_id": "vadodara-marathon",
+    "storage_bucket": "vadodara-marathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672595302310:android:005a9d3e95cd5e362e6167",
+        "android_client_info": {
+          "package_name": "com.rhodonpharma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672595302310-euug9dm0kem0lsjqikado1juhi87fq99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ7Q7qnDT1_biKhSondOVCIcMHDAcGEuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672595302310-euug9dm0kem0lsjqikado1juhi87fq99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
